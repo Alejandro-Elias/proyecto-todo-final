@@ -1,0 +1,26 @@
+{
+  "name": "todo-app-next",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.20",
+    "formik": "^2.4.6",
+    "next": "^14.2.25",
+    "react": "^18",
+    "react-dom": "^18",
+    "sweetalert2": "^11.17.2",
+    "yup": "^1.6.1"
+  },
+  "devDependencies": {
+    "eslint-config-next": "15.2.3",
+    "eslint-plugin-react": "^7.37.4",
+    "postcss": "^8.4.41",
+    "tailwindcss": "^3.4.9"
+  }
+}
